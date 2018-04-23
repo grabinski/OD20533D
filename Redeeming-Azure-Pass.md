@@ -12,7 +12,7 @@
 
     ![Azure-Pass-Get-Promo-Code](images/Azure-Pass-Get-Promo-Code.png)
 
-1. In a separate browser tab, navigate to **http://www.microsoftazurepass.com/**, carefully verify the email address corresponds to your brand new Microsoft Account created earlier (**not** your work account), and click **Confirm Microsoft Account**
+1. In a separate browser tab, navigate to **http://www.microsoftazurepass.com/**, sign in to your new Microsoft Account created earlier, carefully verify the email address corresponds to the new account (**not** your work account), and click **Confirm Microsoft Account**
 
     ![Azure-Pass-Confirm-Account](images/Azure-Pass-Confirm-Account.png)
 
